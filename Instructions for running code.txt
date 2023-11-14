@@ -1,0 +1,21 @@
+Please extract the folder Train data and give a suitable path. 
+
+Change the path for the flicker_set 
+
+flickr8k_set = r"C:\Users\Srividya\Downloads\Traindata\Flickr8k_Dataset\Flicker8k_Dataset"
+
+According to your local path
+
+Please Install all the libraries mentioned in the code.
+
+Also,change the path for 
+
+train_captions according to your local 
+
+My path:
+train_captions = pd.read_csv(r"C:\Users\Srividya\Downloads\Traindata\Flickr8k_Dataset\caption.csv", delimiter=',')
+
+
+
+Since training data is a huge file, it is being uploaded on drive and link for data is provided: https://drive.google.com/drive/folders/1X8MxkbVQYbHuG28_ErFtTAWLR27SddYj?usp=drive_link
+
